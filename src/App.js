@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-       
+       <h2>I will stream temp data here</h2>
       </header>
     </div>
   );
